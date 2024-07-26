@@ -1,0 +1,109 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class idades {
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		SSystem.out.println("Dados da primeira pessoa ");
+        System.out.print("Nome: ");
+        String nome1 = sc.nextLine();
+        int idade1 = sc.nextInt();
+
+        System.out.println("Dados da segunda pessoa ");
+        System.out.print("Nome: ");
+        sc.nextLine();
+        String nome2 = sc.nextLine();
+        int idade2 = sc.nextInt();
+
+        double average = (double) (idade1 + idade2) / 2;
+
+        System.out.println("A idade de " + nome1 + " e " + nome2 + " é de " + String.format("%.2f", average) + " anos");
+    }
+}
+Agora, a mensagem será exibida corretamente. Verifique se o problema que você está enfrentando está relacionado a algo além desse pequeno erro de formatação.
+
+
+
+
+
+User
+Quando eu compilo e digito o primeiro nome, ele não aparece mais nada e eu só consigo dar espaço infinitos (linha 10 para linha 11)
+ChatGPT
+O problema que você está enfrentando ocorre porque, após ler um valor inteiro com sc.nextInt(), o caractere de quebra de linha (\n) correspondente ao Enter não é consumido pelo método nextInt(). Então, quando você chama sc.nextLine() logo em seguida, ele lê esse caractere de quebra de linha pendente, resultando em uma leitura vazia.
+
+Uma solução para isso é adicionar sc.nextLine() logo após idade1 = sc.nextInt(), para consumir o caractere de quebra de linha pendente. Isso garantirá que a leitura de nome2 ocorra corretamente. Aqui está o código corrigido:
+
+java
+Copy code
+import java.util.Locale;
+import java.util.Scanner;
+
+public class idades {
+    public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Dados da primeira pessoa ");
+        System.out.print("Nome: ");
+        String nome1 = sc.nextLine();
+        int idade1 = sc.nextInt();
+
+        sc.nextLine(); // Consumir o caractere de quebra de linha pendente
+
+        System.out.println("Dados da segunda pessoa ");
+        System.out.print("Nome: ");
+        String nome2 = sc.nextLine();
+        int idade2 = sc.nextInt();
+
+        double average = (double) (idade1 + idade2) / 2;
+
+        System.out.println("A idade de " + nome1 + " e " + nome2 + " é de " + String.format("%.2f", average) + " anos");
+    }
+}
+A adição de sc.nextLine() após idade1 = sc.nextInt() garante que o caractere de quebra de linha seja consumido, permitindo que a leitura de nome2 seja feita corretamente.
+
+
+
+
+
+User
+mas não aparece o idade1 no compilador, o problema é antes disso
+ChatGPT
+Peço desculpas pela confusão anterior. O problema que você está enfrentando ocorre devido à chamada incorreta do método nextLine().
+
+Após a leitura do valor inteiro idade1 com sc.nextInt(), a quebra de linha (Enter) não é consumida e permanece no buffer. Então, quando você chama sc.nextLine() logo em seguida, ele lê essa quebra de linha pendente em vez de capturar o nome da primeira pessoa.
+
+Uma solução simples é adicionar um sc.nextLine() após a leitura de idade1, para consumir a quebra de linha pendente antes de ler o nome da primeira pessoa. Aqui está o código corrigido:
+
+java
+Copy code
+import java.util.Locale;
+import java.util.Scanner;
+
+public class idades {
+    public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Dados da primeira pessoa");
+        System.out.print("Nome: ");
+        String nome1 = sc.nextLine();
+
+        System.out.print("Idade: ");
+        int idade1 = sc.nextInt();
+        sc.nextLine(); // Consumir a quebra de linha pendente
+
+        System.out.println("Dados da segunda pessoa");
+        System.out.print("Nome: ");
+        String nome2 = sc.nextLine();
+
+        System.out.print("Idade: ");
+        int idade2 = sc.nextInt();
+
+        double average = (double) (idade1 + idade2) / 2;
+
+        System.out.println("A idade de " + nome1 + " e " + nome2 + " é de " + String.format("%.2f", average) + " anos");
+    }
+}

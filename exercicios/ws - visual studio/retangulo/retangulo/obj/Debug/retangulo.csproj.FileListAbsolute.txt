@@ -1,0 +1,6 @@
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\retangulo\retangulo\bin\Debug\retangulo.exe.config
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\retangulo\retangulo\bin\Debug\retangulo.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\retangulo\retangulo\bin\Debug\retangulo.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\retangulo\retangulo\obj\Debug\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\retangulo\retangulo\obj\Debug\retangulo.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\retangulo\retangulo\obj\Debug\retangulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\bin\Debug\teste_entrada.exe.config
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\bin\Debug\teste_entrada.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\bin\Debug\teste_entrada.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\obj\Debug\teste_entrada.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\obj\Debug\teste_entrada.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\obj\Debug\teste_entrada.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\teste_entrada\teste_entrada\obj\Debug\teste_entrada.csproj.AssemblyReference.cache

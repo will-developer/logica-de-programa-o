@@ -1,0 +1,7 @@
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\Primeiro\Primeiro\obj\Debug\Primeiro.pdb

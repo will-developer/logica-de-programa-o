@@ -1,0 +1,6 @@
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.exe.config
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.pdb

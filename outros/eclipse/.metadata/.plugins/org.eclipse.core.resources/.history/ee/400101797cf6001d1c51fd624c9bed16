@@ -1,0 +1,19 @@
+import java.util.Locale;
+
+public class teste2 {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+	
+	int idade = 32;
+	double salario = 4560.9;
+	String nome = "Maria Silva";
+	char genero = 'F';
+	
+	System.out.println("a funcionária " + nome + ", sexo " + genero +
+	", ganha " + String.format("%.2lf", salario) + " e tem idade " + idade 
+	+ "Anos.");
+	
+	}
+}

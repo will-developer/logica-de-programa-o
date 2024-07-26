@@ -1,0 +1,6 @@
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\idades\idades\bin\Debug\idades.exe.config
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\idades\idades\bin\Debug\idades.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\idades\idades\bin\Debug\idades.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\idades\idades\obj\Debug\idades.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\idades\idades\obj\Debug\idades.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\idades\idades\obj\Debug\idades.pdb

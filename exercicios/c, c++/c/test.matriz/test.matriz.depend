@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684173648 source:c:\users\willi\documents\.curso a.p\ws -cb\test.matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+

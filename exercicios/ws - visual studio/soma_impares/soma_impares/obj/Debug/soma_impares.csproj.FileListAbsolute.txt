@@ -1,0 +1,6 @@
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\soma_impares\soma_impares\bin\Debug\soma_impares.exe.config
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\soma_impares\soma_impares\bin\Debug\soma_impares.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\soma_impares\soma_impares\bin\Debug\soma_impares.pdb
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\soma_impares\soma_impares\obj\Debug\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\soma_impares\soma_impares\obj\Debug\soma_impares.exe
+C:\Users\willi\Documents\.Curso A.P\ws - visual studio\soma_impares\soma_impares\obj\Debug\soma_impares.pdb

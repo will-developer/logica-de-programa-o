@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683981804 source:c:\users\willi\documents\.curso a.p\ws -cb\testando entrada e saida de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683982154 source:c:\users\willi\documents\.curso a.p\ws -cb\testando entrada e saida de dados\teste_inteiro.c
+	<stdio.h>
+	<stdlib.h>
+
